@@ -1,0 +1,72 @@
+
+
+.isi {
+    background:  	#FFFFFF;
+    color: #000;
+    margin: 50px;
+    margin-right: 20px;
+    margin-left: 20px;
+    padding: 10px;
+}
+
+
+
+.button {border-radius: 8px;
+background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 8px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+    margin: 2px 2px;
+    cursor: pointer;}
+ .bungkus{
+ 	background:  	#FFFFFF;
+    color: #000;
+    margin: 70px;
+    margin-right: 70px;
+    padding: 10px;
+
+ }
+ .header{
+    font-size: 20px;
+    padding: 20px
+ }
+ .navigasi{
+    background-color: #FFB700;
+
+ }
+ .navigasi ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+ }
+ .navigasi ul li{
+    display: inline-table;
+ }
+ .navigasi ul li:hover{
+    background-color: #F7B311;
+ }
+ .navigasi ul li a{
+    display: block;
+    text-decoration: none;
+    line-height: 40px;
+    padding: 0 10px;
+    color: black;
+ }
+ .utama ul{
+    display: none;
+    position: absolute;
+    z-index: 2;
+
+ }
+ .utama:hover ul {
+    display: block;
+ }
+ .utama ul li{
+    display: block;
+    background-color: #6fc;
+    width: 180px;
+ }
